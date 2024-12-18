@@ -1,5 +1,13 @@
 dns:
-  default-nameserver:
-    - 101.226.4.6
-    - 114.114.114.114
-    - 223.5.5.5
+  fake-ip-filter:
+#Epicor
+    - "+.epicor.com"
+    - "+.epicorsaas.com"
+    - "+.scorm.com"
+    - "+.brightcove.net"
+#Google应用商店
+    - "+.services.googleapis.cn"
+    - "+.googleapis.cn"
+    - "+.xn--ngstr-lra8j.com"
+    - "+.gstatic.com"
+    - "+.clientservices.googleapis.com"
