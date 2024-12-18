@@ -3,6 +3,7 @@
 # MyList
 ;SRC-IP-CIDR 192.168.18.240,no-resolve
 DOMAIN-SUFFIX,wolai.com
+DOMAIN-SUFFIX,cnblogs.com
 # MS HK
 DOMAIN-KEYWORD,teams
 DOMAIN-SUFFIX,skype.com
