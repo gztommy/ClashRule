@@ -2,9 +2,10 @@
 
 # MyList
 ;SRC-IP-CIDR 192.168.18.240,no-resolve
-DOMAIN-SUFFIX,wolai.com
-DOMAIN-SUFFIX,cnblogs.com
-DOMAIN-SUFFIX,baidu.com
+DOMAIN-KEYWORD,wolai.com
+DOMAIN-KEYWORD,cnblogs.com
+DOMAIN-KEYWORD,baidu.com
+DOMAIN-KEYWORD,163.com
 # MS HK
 DOMAIN-KEYWORD,teams
 DOMAIN-SUFFIX,skype.com
