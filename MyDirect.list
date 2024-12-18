@@ -1,7 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
-;SRC-IP-CIDR 192.168.18.240
+;SRC-IP-CIDR 192.168.18.240,no-resolve
 DOMAIN-SUFFIX,wolai.com
 # MS HK
 DOMAIN-KEYWORD,teams
@@ -17,6 +17,6 @@ DOMAIN-SUFFIX,gotowebinar.com
 DOMAIN-SUFFIX,webex.com
 DOMAIN-KEYWORD,evision.lhkpoc.com
 DOMAIN-KEYWORD,vm1.pov.local
-IP-CIDR,20.24.81.132/32
+IP-CIDR,20.24.81.132/32,no-resolve
 ;DST-PORT,6071
 ;SRC-PORT,6071
