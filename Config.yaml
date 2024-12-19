@@ -60,7 +60,11 @@ dns:
     - "+.epicor.com"
     - "+.epicorsaas.com"
     - "+.scorm.com"
+    - "+.scorm.net"    
     - "+.brightcove.net"
+    - "+.brightcove.com"
+    - "+.evision.lhkpoc.com"
+    - "+.vm1.pov.local"    
 #Google应用商店
     - "+.services.googleapis.cn"
     - "+.googleapis.cn"
