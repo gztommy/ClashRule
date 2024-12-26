@@ -3,6 +3,8 @@
 # MyList
 ;SRC-IP-CIDR 192.168.18.240,no-resolve
 DOMAIN-KEYWORD,wolai.com
+DOMAIN-KEYWORD,flowus.cn
+DOMAIN-KEYWORD,yuque.com
 DOMAIN-KEYWORD,cnblogs.com
 DOMAIN-KEYWORD,baidu.com
 DOMAIN-KEYWORD,163.com
