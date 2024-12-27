@@ -9,11 +9,11 @@ DOMAIN-KEYWORD,cnblogs.com
 DOMAIN-KEYWORD,baidu.com
 DOMAIN-KEYWORD,163.com
 # MS HK
-#DOMAIN-KEYWORD,teams
-#DOMAIN-SUFFIX,skype.com
-#DOMAIN-SUFFIX,skypeassets.com
-#DOMAIN-SUFFIX,skypeforbusiness.com
-#DOMAIN-SUFFIX,sharepoint.com
+;DOMAIN-KEYWORD,teams
+;DOMAIN-SUFFIX,skype.com
+;DOMAIN-SUFFIX,skypeassets.com
+;DOMAIN-SUFFIX,skypeforbusiness.com
+;DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,notion.so
 # Epicor & Kinetic
 DOMAIN-SUFFIX,epicorsaas.com
