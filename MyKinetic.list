@@ -1,0 +1,8 @@
+# Kinetic App
+DOMAIN-SUFFIX,epicorsaas.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-KEYWORD,evision.lhkpoc.com
+DOMAIN-KEYWORD,vm1.pov.local
+IP-CIDR,20.24.81.132/32,no-resolve
+;DST-PORT,6071
+;SRC-PORT,6071
