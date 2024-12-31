@@ -84,3 +84,5 @@ sub-rules:
   - "DOMAIN-KEYWORD,evision.lhkpoc.com,DIRECT"
   - "DOMAIN-KEYWORD,vm1.pov.local,DIRECT"
   - "IP-CIDR,20.24.81.132/32,DIRECT"
+rules:
+  - SUB-RULE,(IP-CIDR6,::/0),ipv6
