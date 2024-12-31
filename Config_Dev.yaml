@@ -60,20 +60,27 @@ dns:
     - "+.epicor.com"
     - "+.epicorsaas.com"
     - "+.scorm.com"
+    - "+.scorm.net"    
     - "+.brightcove.net"
+    - "+.brightcove.com"
+    - "+.evision.lhkpoc.com"
+    - "+.vm1.pov.local"    
 #Google应用商店
     - "+.services.googleapis.cn"
     - "+.googleapis.cn"
     - "+.xn--ngstr-lra8j.com"
     - "+.gstatic.com"
     - "+.clientservices.googleapis.com"
-rules:
-  - "SRC-IP-CIDR,192.168.18.240/32,DIRECT"
-  - "SRC-IP-CIDR,192.168.18.188/32,DIRECT"
-  - "DST-PORT,6071,DIRECT"
-  - "SRC-PORT,6071,DIRECT"
-  - "DOMAIN-SUFFIX,wolai.com,DIRECT"
-  - "DOMAIN-SUFFIX,epicorsaas.com,DIRECT"
+sub-rules:
+  ipv6:
+    - GEOIP,private,DIRECT
+    - DOMAIN-SUFFIX,local,DIRECT
+    - GEOSITE,cn,DIRECT
+    - GEOIP,CN,DIRECT
+    - GEOSITE,microsoft,DIRECT
+    - GEOSITE,apple,DIRECT
+    - GEOSITE,steam,DIRECT
+    - MATCH,🔰国外流量(IPV6)
   - "DOMAIN-KEYWORD,evision.lhkpoc.com,DIRECT"
   - "DOMAIN-KEYWORD,vm1.pov.local,DIRECT"
   - "IP-CIDR,20.24.81.132/32,DIRECT"
