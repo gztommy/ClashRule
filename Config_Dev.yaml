@@ -73,16 +73,13 @@ dns:
     - "+.clientservices.googleapis.com"
 sub-rules:
   ipv6:
-    - GEOIP,private,DIRECT
-    - DOMAIN-SUFFIX,local,DIRECT
     - GEOSITE,cn,DIRECT
-    - GEOIP,CN,DIRECT
     - GEOSITE,microsoft,DIRECT
     - GEOSITE,apple,DIRECT
-    - GEOSITE,steam,DIRECT
+    - GEOSITE,steam,DIRECT    
+    - DOMAIN-SUFFIX,local,DIRECT    
+    - GEOIP,private,DIRECT
+    - GEOIP,CN,DIRECT
     - MATCH,🔰国外流量(IPV6)
-  - "DOMAIN-KEYWORD,evision.lhkpoc.com,DIRECT"
-  - "DOMAIN-KEYWORD,vm1.pov.local,DIRECT"
-  - "IP-CIDR,20.24.81.132/32,DIRECT"
 rules:
   - SUB-RULE,(IP-CIDR6,::/0),ipv6
