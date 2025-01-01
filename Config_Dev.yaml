@@ -81,5 +81,3 @@ sub-rules:
     - GEOIP,private,DIRECT
     - GEOIP,CN,DIRECT
     - MATCH,🔰国外流量(IPV6)
-rules:
-  - SUB-RULE,(IP-CIDR6,::/0),ipv6
