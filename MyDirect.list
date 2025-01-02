@@ -8,8 +8,10 @@ DOMAIN-KEYWORD,yuque.com
 DOMAIN-KEYWORD,cnblogs.com
 DOMAIN-KEYWORD,baidu.com
 DOMAIN-KEYWORD,163.com
-# Other
-DOMAIN-SUFFIX,notion.so
+# Check IP
 DOMAIN-KEYWORD,dyndns.com
 DOMAIN-KEYWORD,ipip.net
 DOMAIN-KEYWORD,ipify.org
+DOMAIN-KEYWORD,IP.SB
+# Other
+DOMAIN-SUFFIX,notion.so
