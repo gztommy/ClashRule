@@ -71,3 +71,13 @@ dns:
     - "+.xn--ngstr-lra8j.com"
     - "+.gstatic.com"
     - "+.clientservices.googleapis.com"
+sub-rules:
+  ipv6:
+    - GEOSITE,cn,DIRECT
+    - GEOSITE,microsoft,DIRECT
+    - GEOSITE,apple,DIRECT
+    - GEOSITE,steam,DIRECT    
+    - DOMAIN-SUFFIX,local,DIRECT    
+    - GEOIP,private,DIRECT
+    - GEOIP,CN,DIRECT
+    - MATCH,🔰国外流量(IPV6)
