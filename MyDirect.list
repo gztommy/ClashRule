@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,brightcove.net
 DOMAIN-KEYWORD,brightcove.com
 # Check IP
 DOMAIN-KEYWORD,dyndns.com
+DOMAIN-KEYWORD,dynv6.com
 DOMAIN-KEYWORD,ipip.net
 DOMAIN-KEYWORD,ipify.org
 DOMAIN-KEYWORD,IP.SB
