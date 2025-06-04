@@ -4,3 +4,7 @@ DOMAIN-KEYWORD,scorm.com
 DOMAIN-KEYWORD,scorm.net
 DOMAIN-SUFFIX,gotowebinar.com
 DOMAIN-SUFFIX,webex.com
+DOMAIN-KEYWORD,zendesk.com
+# Epicor Video
+DOMAIN-KEYWORD,brightcove.net
+DOMAIN-KEYWORD,brightcove.com
