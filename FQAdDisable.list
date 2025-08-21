@@ -1,0 +1,20 @@
+# 番茄小说去广告
+# Source:
+# 1 https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/ultimate.txt
+# 2 https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/广告平台拦截器.beta.sgmodule
+DOMAIN,dig.zjurl.cn
+DOMAIN,dig.bdurl.net
+DOMAIN,ichannel.snssdk.com
+DOMAIN,is.snssdk.com
+DOMAIN,toutiao-frontier.snssdk.com
+DOMAIN,ug.snssdk.com
+DOMAIN,tp-pay.snssdk.com
+DOMAIN,mssdk.zijieapi.com
+DOMAIN,vcs.zijieapi.com
+DOMAIN,timon.zijieapi.com
+DOMAIN,feedback-c.zijieapi.com
+DOMAIN,polaris.zijieapi.com
+DOMAIN,i.snssdk.com
+DOMAIN,effect.snssdk.com
+AND,((DOMAIN-KEYWORD,tnc,extended-matching),(OR,((DOMAIN-SUFFIX,zijieapi.com,extended-matching),(DOMAIN-SUFFIX,snssdk.com,extended-matching),(DOMAIN-SUFFIX,sgsnssdk.com,extended-matching))))
+AND,((DOMAIN-KEYWORD,pangolin,extended-matching),(OR,((DOMAIN-SUFFIX,zijieapi.com,extended-matching),(DOMAIN-SUFFIX,snssdk.com,extended-matching),(DOMAIN-SUFFIX,sgsnssdk.com,extended-matching))))
