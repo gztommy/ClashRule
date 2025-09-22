@@ -8,6 +8,8 @@ DOMAIN-KEYWORD,yuque.com
 DOMAIN-KEYWORD,cnblogs.com
 DOMAIN-KEYWORD,baidu.com
 DOMAIN-KEYWORD,163.com
+# Remote Working
+DOMAIN-KEYWORD,anydesk.com
 # Check IP
 DOMAIN-KEYWORD,dyndns.com
 DOMAIN-KEYWORD,dynv6.com
