@@ -2,6 +2,7 @@
 
 # MyList
 ;SRC-IP-CIDR 192.168.18.240,no-resolve
+;SRC-IP-CIDR 192.168.18.224,no-resolve
 DOMAIN-KEYWORD,smarbox.cn
 DOMAIN-KEYWORD,qq.com
 DOMAIN-KEYWORD,wolai.com
