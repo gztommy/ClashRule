@@ -14,12 +14,12 @@ DOMAIN-KEYWORD,163.com
 # Remote Working
 DOMAIN-KEYWORD,anydesk.com
 # Check IP
-DOMAIN-KEYWORD,dyndns.com
-DOMAIN-KEYWORD,dynv6.com
-DOMAIN-KEYWORD,ipip.net
-DOMAIN-KEYWORD,ipify.org
-DOMAIN-KEYWORD,IP.SB
-DOMAIN-KEYWORD,ipv6-test.ch
+# DOMAIN-KEYWORD,dyndns.com
+# DOMAIN-KEYWORD,dynv6.com
+# DOMAIN-KEYWORD,ipip.net
+# DOMAIN-KEYWORD,ipify.org
+# DOMAIN-KEYWORD,IP.SB
+# DOMAIN-KEYWORD,ipv6-test.ch
 # Other
 DOMAIN-SUFFIX,notion.so
 DOMAIN-KEYWORD,imi.gov.my
