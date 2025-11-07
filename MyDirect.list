@@ -4,6 +4,7 @@
 ;SRC-IP-CIDR 192.168.18.240,no-resolve
 ;SRC-IP-CIDR 192.168.18.224,no-resolve
 DOMAIN-KEYWORD,smarbox.cn
+DOMAIN-KEYWORD,tencent.com
 DOMAIN-KEYWORD,qq.com
 DOMAIN-KEYWORD,wolai.com
 DOMAIN-KEYWORD,flowus.cn
