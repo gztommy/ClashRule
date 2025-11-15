@@ -14,6 +14,11 @@ DOMAIN-KEYWORD,baidu.com
 DOMAIN-KEYWORD,163.com
 DOMAIN-KEYWORD,opensdoor.cc
 DOMAIN-KEYWORD,opendoor.cn
+# Poly
+DOMAIN-SUFFIX,svcloud.one
+DOMAIN-SUFFIX,apple-bing.sbs
+DOMAIN-SUFFIX,alipoly.sbs
+DOMAIN-SUFFIX,huawei-cloud.vip
 # Remote Working
 DOMAIN-KEYWORD,anydesk.com
 # Check IP
