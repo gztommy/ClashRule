@@ -19,6 +19,16 @@ DOMAIN-SUFFIX,svcloud.one
 DOMAIN-SUFFIX,apple-bing.sbs
 DOMAIN-SUFFIX,alipoly.sbs
 DOMAIN-SUFFIX,huawei-cloud.vip
+#Hongxing
+DOMAIN-SUFFIX,hongxingyun.help
+DOMAIN-SUFFIX,hongxingyun.xyz
+DOMAIN-SUFFIX,hongxingyun.club
+DOMAIN-SUFFIX,hongxingyun.pro
+DOMAIN-SUFFIX,hongxingyun.homes
+DOMAIN-SUFFIX,bdytul.com
+DOMAIN-SUFFIX,redapricotcandy.com
+DOMAIN-SUFFIX,hongxingdl.vip
+DOMAIN-SUFFIX,bdytul.com
 # Remote Working
 DOMAIN-KEYWORD,anydesk.com
 # Check IP
