@@ -3,6 +3,8 @@
 # MyList
 ;SRC-IP-CIDR 192.168.18.240,no-resolve
 ;SRC-IP-CIDR 192.168.18.224,no-resolve
+DOMAIN,eDemo
+DOMAIN,EpicorSI
 DOMAIN-KEYWORD,smarbox.cn
 DOMAIN-KEYWORD,tencent.com
 DOMAIN-KEYWORD,qq.com
